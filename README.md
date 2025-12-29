@@ -10,7 +10,6 @@
 ### 🚀 About Me
 
 - 🧠 Passionate about Artificial General Intelligence research
-- 🛠️ Currently building an **AI-powered news aggregator**
 - 🌐 Open to collaborating on exciting AI or full-stack projects
 - 💬 Let’s talk about building efficient, scalable systems!
 - 📫 Reach me at **deval.back.js129@gmail.com**
