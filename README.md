@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Deval Garg 👋</h1>
 
 <p align="center">
-  <b>AI Enthusiast || Full Stack Developer || AGI Researcher</b><br>
-  Building AI-powered solutions to solve real-world problems.
+  <b>AI Enthusiast || Full Stack Developer || Computer-Vision & System Design Learner</b><br>
+  Develop a Mindset that can Actually think Like a Programmer
 </p>
 
 ---
