@@ -18,7 +18,7 @@ Passionate about building scalable backend systems, full stack applications, clo
 - ⚡ Solving DSA problems in Java
 - 🚀 Building production-level projects using Spring Boot & React
 - 🧠 Interested in AI/ML + System Design
-- 🏋️ Powerlifting & Fitness Enthusiast
+- 🏋️ Fitness Enthusiast
 - 🎯 Goal: Crack top tech internships & become a strong Software Engineer by 2027
 - 🤝 Looking to collaborate on:
   - Full Stack Projects
@@ -65,19 +65,19 @@ Passionate about building scalable backend systems, full stack applications, clo
 ## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ## ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
 </p>
 
 ## ⚒️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,ubuntu" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -86,7 +86,6 @@ Passionate about building scalable backend systems, full stack applications, clo
 
 - Advanced DSA in Java
 - System Design
-- Spring Boot Microservices
 - Kubernetes & Docker
 - AWS Cloud Fundamentals
 - CI/CD Pipelines
