@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deval Garg</h1>
 
 <h3 align="center">
-🚀 AIML Student | Java Developer | Full Stack Learner | DevOps & Cloud Enthusiast
+🚀 AIML Student | Full MERN stack Developer | DevOps & Cloud Enthusiast
 </h3>
 
 <p align="center">
