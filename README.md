@@ -35,7 +35,7 @@ Passionate about building scalable backend systems, full stack applications, clo
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/deval-garg" target="blank">
+<a href="https://www.linkedin.com/in/deval-garg-b5431a280/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
