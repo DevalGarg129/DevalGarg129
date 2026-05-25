@@ -68,10 +68,10 @@ Passionate about building scalable backend systems, full stack applications, clo
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## ☁️ DevOps & Cloud
+## ☁️ DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
 </p>
 
 ## ⚒️ Tools & Platforms
@@ -87,7 +87,6 @@ Passionate about building scalable backend systems, full stack applications, clo
 - Advanced DSA in Java
 - System Design
 - Kubernetes & Docker
-- AWS Cloud Fundamentals
 - CI/CD Pipelines
 - Backend Optimization
 - AI/ML Concepts
